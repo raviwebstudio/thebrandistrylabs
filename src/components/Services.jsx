@@ -7,8 +7,8 @@ function Services() {
       <div className="container">
         <SectionHeader
           eyebrow="Services"
-          title="Built for brands that need strategy, speed, and measurable growth."
-          description="We combine channel expertise, conversion thinking, and creative direction into one focused growth engine."
+          title="Growth services built to turn clicks, reach, and demand into paying customers."
+          description="We connect paid media, organic growth, creative strategy, and conversion optimization so every channel pushes toward measurable business outcomes."
         />
 
         <div className="services-grid">

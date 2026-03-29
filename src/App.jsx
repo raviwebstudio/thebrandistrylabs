@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import About from './components/About.jsx'
 import CaseStudies from './components/CaseStudies.jsx'
 import ContactSection from './components/ContactSection.jsx'
 import Footer from './components/Footer.jsx'
@@ -8,6 +7,7 @@ import Navbar from './components/Navbar.jsx'
 import Process from './components/Process.jsx'
 import Services from './components/Services.jsx'
 import TrustStrip from './components/TrustStrip.jsx'
+import WhyChooseUs from './components/WhyChooseUs.jsx'
 import './App.css'
 
 function App() {
@@ -61,9 +61,9 @@ function App() {
       <main>
         <Hero />
         <TrustStrip />
-        <About />
         <Services />
         <CaseStudies />
+        <WhyChooseUs />
         <Process />
         <ContactSection />
       </main>

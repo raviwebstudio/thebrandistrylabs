@@ -11,7 +11,10 @@ function Footer() {
             <span className="brand__mark" aria-hidden="true"></span>
             <span>The Brandistry Labs</span>
           </a>
-          <p>Performance marketing for brands that want clarity, creativity, and stronger revenue outcomes.</p>
+          <p>
+            Revenue-focused digital marketing for eCommerce brands, startups, local businesses, and
+            personal brands ready to scale with clarity.
+          </p>
         </div>
 
         <div className="footer__links footer__column">

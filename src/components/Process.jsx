@@ -3,12 +3,12 @@ import { processSteps } from './data.js'
 
 function Process() {
   return (
-    <section className="section section--process">
+    <section className="section section--process" id="process">
       <div className="container">
         <SectionHeader
           eyebrow="Process"
-          title="A clear path from audit to scale."
-          description="We keep the system simple: diagnose, prioritize, execute, and compound what performs."
+          title="A clear operating system for turning strategy into steady growth."
+          description="We keep the path focused: diagnose what is blocking results, launch what matters most, and scale what proves itself in the numbers."
         />
 
         <div className="process-grid">
